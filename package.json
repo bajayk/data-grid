@@ -1,0 +1,24 @@
+{
+  "name": "@bajayk/data-grid",
+  "version": "1.0.0",
+  "description": "This component can be used to display data in tabular format with pagination. It also has the search feature to search the item from data set.",
+  "keywords": [
+    "data-grid",
+    "datagrid"
+  ],
+  "homepage": "https://github.com/bajayk/data-grid#readme",
+  "bugs": {
+    "url": "https://github.com/bajayk/data-grid/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bajayk/data-grid.git"
+  },
+  "license": "ISC",
+  "author": "Ajay Badgujar",
+  "type": "module",
+  "main": "data-grid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
