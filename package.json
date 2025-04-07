@@ -1,6 +1,6 @@
 {
   "name": "@bajayk/data-grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This component can be used to display data in tabular format with pagination. It also has the search feature to search the item from data set.",
   "keywords": [
     "data-grid",

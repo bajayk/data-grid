@@ -5,7 +5,7 @@
 
 ## How to use.
 
-```
+```js
 import { useEffect, useRef, useState } from 'react';
 import DataGrid from '@bajayk/data-grid';
 
