@@ -1,4 +1,6 @@
-# data-grid
+# Data Grid
+
+## How to use.
 
 ```
 import { useEffect, useRef, useState } from 'react';
