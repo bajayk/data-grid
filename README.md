@@ -1,5 +1,8 @@
 # Data Grid
 
+## Demo Link 
+### [Click Here](https://components.ajaybadgujar.in/data-grid/).
+
 ## How to use.
 
 ```
@@ -58,4 +61,3 @@ export default App
 ```
 
 
-## Demo Link [Click Here](https://components.ajaybadgujar.in/data-grid/).
