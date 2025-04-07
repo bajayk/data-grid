@@ -3,6 +3,12 @@
 ## Demo Link 
 ### [Click Here](https://components.ajaybadgujar.in/data-grid/).
 
+## Installation
+
+```
+npm install @bajayk/data-grid
+```
+
 ## How to use.
 
 ```js
